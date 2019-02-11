@@ -1,0 +1,9 @@
+Pre Requisite
+
+cv2
+pytesseract
+nltk
+re
+numpy 
+PIL
+pymongo 
