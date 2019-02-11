@@ -1,4 +1,4 @@
-Pre Requisite
+Pre Requisite packages in Python
 
 cv2
 pytesseract
@@ -7,3 +7,5 @@ re
 numpy 
 PIL
 pymongo 
+
+(pip install package name)
