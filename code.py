@@ -74,7 +74,7 @@ def extractUnorganisedText(im):
 print("-----The Image of size of Doc should be 500x350 and the scanned doc should be in jpg format-----")
 
 #path of image
-imPath = "5.jpg"
+imPath = "2.jpg"
 im = cv2.imread(imPath,cv2.COLOR_BGR2GRAY)
 size = im.shape
 height = size[0]
